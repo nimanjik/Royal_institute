@@ -1,0 +1,48 @@
+.update-classes-container {
+    border: 1px solid #dddddd;
+    padding: 20px;
+    width: 900px; 
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+
+.edit-class-title {
+    text-align: center;
+}
+
+.form-container {
+    margin-bottom: 20px;
+}
+
+.input-container {
+    margin-bottom: 10px;
+}
+
+.input-container label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-container input {
+    width: calc(100% - 20px); 
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cancel-button, .save-button {
+    padding: 10px 20px;
+    background-color: #007bff; /* Example color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cancel-button:hover, .save-button:hover {
+    background-color: #0056b3; 
+}

@@ -1,0 +1,75 @@
+/* ReportMonth.css */
+
+
+.containergrl {
+    
+    
+    
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 50px;
+    border: 2px solid #007bff;
+    border-radius: 20px;
+    background-color: #f0f0f0;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
+}
+
+.h1grl {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #333;
+    font-size: 28px;
+}
+
+.paygrl {
+    display: flex;
+    margin-right: 80px;
+    flex-direction: column;
+}
+
+.form-groupgr {
+    margin-bottom: 40px;
+}
+
+.label1grl {
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+
+.text1gr {
+    padding: 20px;
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    outline: none;
+    font-size: 24px;
+}
+
+.text1gr:focus {
+    border-color: #007bff;
+}
+
+.invalid {
+    border-color: #dc3545 !important;
+}
+
+.invalid-feedback {
+    color: #dc3545;
+    font-size: 18px;
+}
+
+.button7grl {
+    margin-left: 140px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 16px; /* Adjusted padding for smaller button */
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 20px;
+}
+
+.button7grl:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,60 @@
+.additional-classes-container {
+  margin-left: 400px;
+  max-width: 800px;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Center align content */
+}
+
+.additional-classes-title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.additionalclasses-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.additionalclasses-table th,
+.additionalclasses-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.additionalclasses-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  color: #333;
+}
+
+.additionalclasses-table tbody tr:hover {
+  background-color: #e6e6e6;
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+.add-additional-button,
+.myclasses-button {
+  padding: 12px 24px;
+  background-color: #007bff; /* Blue */
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin: 10px;
+}
+
+.add-additional-button:hover,
+.myclasses-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}

@@ -1,0 +1,154 @@
+
+
+.bodyA{
+    font-family: inter,Arial, Helvetica, sans-serif;
+    min-height: 100%;
+    background-color:rgb(236, 234, 243);
+    background-image: 'C:\Users\samudra waduge\Desktop\New folder (3)';
+    margin: 0;
+	font-family: sans-serif;
+	font-weight: 100;
+	opacity:0.9;
+    font-family: Helvetica Neue, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    
+   
+
+}
+.h12i{
+    padding: 14px 40px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #d6d1d1;
+    border-radius:10px;
+    box-sizing: border-box;
+    margin-left:250px;
+    background-color: rgb(19, 19, 20);
+    font-family: sans-serif;
+    color: #f1ecec;
+
+
+}
+.text1{
+    padding: 14px 40px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #000000;
+    border-radius:10px;
+    box-sizing: border-box;
+    margin-left:80px;
+}
+.labelA1{
+    margin-left: 200px;
+    color: rgb(16, 16, 16);
+    font-weight: bold; /* Use font-weight property to set text to bold */
+
+
+}
+.labelA2{
+    margin-left: 200px;
+    color: black;
+    font-weight: bold; /* Use font-weight property to set text to bold */
+}
+.labelA3{
+    margin-left: 200px;
+    color: black;
+    font-weight: bold; /* Use font-weight property to set text to bold */
+}
+.labelA4{
+    margin-left: 200px;
+    color: black;
+    font-weight: bold; /* Use font-weight property to set text to bold */
+}
+.labelA5{
+    margin-left: 200px;
+    color: black;
+    font-weight: bold; /* Use font-weight property to set text to bold */
+}
+.labelA6{
+    margin-left: 200px;
+    color: black;
+    font-weight: bold; /* Use font-weight property to set text to bold */
+}
+.labelA7{
+    margin-left: 200px;
+    color: black;
+    font-weight: bold; /* Use font-weight property to set text to bold */
+}
+.labelA8{
+    margin-left: 200px;
+    color: black;
+    font-weight: bold; /* Use font-weight property to set text to bold */
+}
+.labelA9{
+    margin-left: 200px;
+    color: black;
+    font-weight: bold; /* Use font-weight property to set text to bold */
+}
+
+
+.labelA10 {
+    font-size: 16px;
+    color: rgb(19, 18, 18);
+    margin-bottom: 10px; /* Bottom margin */
+    align-items: center;
+    font-weight: bold;
+    margin-left: 200px;
+
+  }
+
+
+.buttonA1{
+    color: rgb(125, 25, 25);
+    margin-left: 200px; /* Adjust the margin to control the space between buttons */
+    cursor: pointer;
+    background-color: #0c0d0e;
+    text-align: center;
+    border-radius: 12px;
+    padding: 11px 50px;
+    outline: none;
+    color: white;
+    transition: 0.25s;
+    font-size: 20px;
+    font-weight: bold;
+	margin-top :50px;
+}
+
+.buttonA3{
+    color: rgb(125, 25, 25);
+    margin-left: 595px; /* Adjust the margin to control the space between buttons */
+    cursor: pointer;
+    background-color:#0c0d0e;
+    text-align: center;
+    border-radius: 12px;
+    padding: 15px 50px;
+    outline: none;
+    color: white;
+    transition: 0.25s;
+    font-size: 20px;
+    font-weight: bold;
+	margin-top :50px;
+
+
+}
+
+.buttonA7{
+    color: rgb(125, 25, 25);
+    margin-left: 500px; /* Adjust the margin to control the space between buttons */
+    cursor: pointer;
+    background-color: #0c0d0e;
+    text-align: center;
+    border-radius: 5px;
+    padding: 11px 50px;
+    outline: none;
+    color: white;
+    transition: 0.25s;
+    font-size: 18px;
+    font-weight: bold;
+	
+    align-items: center;
+
+}

@@ -1,0 +1,180 @@
+.heading2{
+    /* Connect with your teachers - Add Your Question */
+
+position: absolute;
+width: 968px;
+height: 25px;
+left: 336px;
+top: 130px;
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 600;
+font-size: 28.8546px;
+line-height: 25px;
+/* identical to box height, or 85% */
+letter-spacing: 0.01em;
+
+color: #063a67;
+
+}
+
+.t1{
+    /* Select Grade */
+
+position: absolute;
+width: 338px;
+height: 39px;
+left: 260px;
+top: 205px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 25px;
+line-height: 25px;
+/* or 85% */
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+
+.t2{
+    /* Select Subject */
+
+position: absolute;
+width: 338px;
+height: 39px;
+left: 305px;
+top: 279px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 25px;
+line-height: 25px;
+/* or 85% */
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+
+.t3{
+    /* Select Teacher */
+
+position: absolute;
+width: 338px;
+height: 39px;
+left: 265px;
+top: 360px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 25px;
+line-height: 25px;
+/* or 85% */
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+
+
+.t5{
+/* Student ID */
+
+position: absolute;
+width: 338px;
+height: 39px;
+left: 285px;
+top: 461px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 25px;
+line-height: 25px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+}
+
+.t6{
+
+position: absolute;
+width: 338px;
+height: 39px;
+left: 280px;
+top: 554px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 25px;
+line-height: 25px;
+/* or 85% */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+}
+
+.t7{
+/* SUBMIT */
+position: absolute;
+width: 129px;
+height: 31px;
+left: 1161px;
+top: 953px;
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 22px;
+letter-spacing: 0.005em;
+color: #FFFFFF;
+}
+
+.udth3{
+    text-decoration:none;
+    color:black;
+    margin-left: 300px;
+    width: max-content;
+    height: max-content;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    
+    background: #a7cced;
+    border-radius: 20px;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 10px;
+    
+   
+      
+  }
+
+  .buttonbb1{
+    color: black;
+    margin-left: 800px; /* Adjust the margin to control the space between buttons */
+    cursor: pointer;
+    background-color: #384D6C;
+    text-align: center;
+    border-radius: 12px;
+    padding: 11px 55px;
+    outline: none;
+    color: white;
+    transition: 0.25s;
+    font-size: 15px;
+    font-weight: bold;
+  margin-top:700px;
+
+  }
+  
+  .buttonbb1:hover {
+    background: linear-gradient(to right, #25c481, #25b7c4);
+    transform: scale(1.06);
+}

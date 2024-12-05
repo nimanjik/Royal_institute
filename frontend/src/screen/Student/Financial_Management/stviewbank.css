@@ -1,0 +1,244 @@
+
+
+
+
+.bodyvb {
+  font-family: inter,Arial, Helvetica, sans-serif;
+  margin-left: 175px;
+  font-family: sans-serif;
+  font-weight: 100%;
+  margin-bottom: 100px;
+  transform: scale(0.9);
+  
+}
+.h1vb{
+  text-decoration:none;
+  color:black;
+  width: 1350px;
+  height: 122px;
+background: #C9E8EA;
+border-radius: 20px;
+text-align: center;
+border: 2px solid black;
+    
+}
+
+.tabletb{
+  width:100%;
+  table-layout: fixed;
+  border-collapse: collapse; /* Ensure table borders are collapsed */
+
+}
+.tbl-headervb {
+  background-color: #384D6C;
+  margin-top: 20px;
+  border: 2px solid black;
+  border-radius: 15px 15px 0 0; /* Top-left and top-right corners are rounded */
+  width: 1350px;
+}
+
+.tbl-contentvb{
+  height:333px;
+  overflow-x:auto;
+  border: 2px solid black;
+  border-radius: 0 0 15px 15px;
+  width: 1350px;
+}
+.thvb{
+  padding: 18px 20px;
+  text-align: left;
+  font-size: 18px;
+  color: white;
+  font-weight: bold; /* Set font weight to bold */
+}
+
+.thvb2{
+  padding: 18px 50px;
+  text-align: left;
+  font-size: 18px;
+  color: white; /* Set font color to black */
+  font-weight: bold;
+}
+.thvb3{
+  padding: 18px 40px;
+  text-align: left;
+  font-size: 18px;
+  color: white; /* Set font color to black */
+  font-weight: bold;
+}
+
+.tdvb {
+  padding: 18px 20px;
+  text-align: left;
+  font-size: 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C; /* Add border-bottom to table data */
+  font-weight: bold;
+}
+
+.tdvb2{
+  padding: 18px 50px;
+  text-align: left;
+  font-size : 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}.tdvb3{
+  padding: 18px 40px;
+  text-align: left;
+  font-size : 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}
+.tdvb6{
+  padding: 18px 10px;
+  text-align: left;
+  font-size : 18px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}
+
+
+
+
+
+.buttonvb1{
+  color: black; /* Change text color to black */
+  margin-left: 00px; /* Adjust the margin to control the space between buttons */ 
+  cursor: pointer;
+  background-color:#384D6C;
+  text-align: center;
+  border-radius: 12px;
+  padding: 11px 30px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: white;
+  border: 2px solid black;
+}
+
+.buttonvb2 {
+  color: black; /* Change text color to black */
+  margin-left: 0px; /* Adjust the margin to control the space between buttons */
+  cursor: pointer;
+  background-color:white;
+  text-align: center;
+  border-radius: 12px;
+  padding: 11px 35px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 5px;
+  color: black;
+  border: 2px solid black;
+}
+.buttonvb3 {
+  color: black; /* Change text color to black */
+  margin-left: 0px; /* Adjust the margin to control the space between buttons */
+  cursor: pointer;
+  background-color:#384D6C;
+  text-align: center;
+  border-radius: 12px;
+  padding: 11px 35px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 5px;
+  color: white;
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+
+.buttonvb1:hover {
+  background: linear-gradient(to right, #25c481, #25b7c4);
+    transform: scale(1.06);
+}
+.buttonvb3:hover {
+  
+  background: linear-gradient(to right, #25c481, #25b7c4);
+    transform: scale(1.06);
+}
+
+
+ 
+.buttonvb4{
+  color: black; 
+  cursor: pointer;
+  background-color:#136845;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 15px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid black;
+}
+
+.buttonvb5 {
+  color: black; 
+  cursor: pointer;
+  background-color:#132c51;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 25px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid black;
+}
+.buttonvb6 {
+  color: black; 
+  cursor: pointer;
+  background-color:#4a2032;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 15px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid black;
+}
+
+.buttonvb4:hover {
+  background: linear-gradient(to right, #da4a0c, #e60b45);
+    transform: scale(1.06);
+}
+.buttonvb5:hover {
+  
+  background: linear-gradient(to right, #da4a0c, #e60b45);
+    transform: scale(1.06);
+}
+.buttonvb6:hover {
+  
+  background: linear-gradient(to right, #da4a0c, #e60b45);
+    transform: scale(1.06);
+}
+
+
+.buttonvb7 {
+  color: black; /* Change text color to black  Adjust the margin to control the space between buttons */
+  cursor: pointer;
+  background-color:white;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 15px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  border: 2px solid black;
+}
+

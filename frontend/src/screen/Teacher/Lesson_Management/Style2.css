@@ -1,0 +1,206 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+}
+
+.lessoncontainer {
+  margin-top: 40px;
+  margin-left: 400px;
+  margin-right: auto;
+  max-width: 800px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form_topic {
+  color: #706a6a;
+  margin-left: 40px;
+}
+
+.h3 {
+  color: #706a6a;
+}
+
+.lessoncontainer p {
+  font-size: 16px;
+  color: #706a6a;
+}
+
+.file-input-label {
+  display: block;
+  margin-top: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+
+.lessoncontainer label,
+.lessoncontainer input,
+.lessoncontainer select,
+.lessoncontainer textarea,
+.lessoncontainer button {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.lessoncontainer input[type="text"],
+.lessoncontainer select,
+.lessoncontainer textarea,
+.lessoncontainer input[type="date"] {
+  width: calc(50% - 22px);
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #ecf5fc;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+
+}
+
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.lessoncontainer button {
+  padding: 10px 80px;
+  background-color: #483EA8;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 20px;
+}
+
+
+.lessoncontainer button:hover {
+  background-color: #0056b3;
+}
+
+
+
+.lessoncontainer textarea {
+  width: calc(100% - 22px);
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #ecf5fc;
+  box-sizing: border-box;
+  resize: vertical;
+  height: 150px;
+  margin-bottom: 15px;
+ 
+}
+
+.input_container {
+  padding: 40px;
+}
+
+.input_group {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input_col {
+  flex: 1;
+}
+
+.input_col input[type="date"],
+.input_col select {
+  width: calc(100% - 22px);
+}
+
+.lessoncontainer hr {
+  border-color: #E2E2E2;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.drop-area {
+  border: 2px dashed #ccd8ed;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  margin: 20px auto;
+  width: 300px;
+  background-color: #F8F8FF;
+}
+
+.drop-area h3 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.drop-area p {
+  margin: 0;
+  color: #666;
+}
+
+.custom-file-input {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #b5b5ed;
+  padding: 8px 15px;
+  color: #333;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.custom-file-input:hover {
+  background-color: #e9e9e9;
+}
+
+.custom-file-input input[type="file"] {
+  position: absolute;
+  font-size: 100px;
+  right: 0;
+  top: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.custom-file-input label {
+  cursor: pointer;
+}
+
+.custom-file-input span {
+  font-size: 16px;
+}
+
+.cancelbutton_EM{
+  background-color: #667A8A;
+  padding: 10px 80px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  text-decoration: none;
+  
+}
+
+
+@media only screen and (max-width: 768px) {
+  .lessoncontainer {
+    margin: 100px auto;
+  }
+}

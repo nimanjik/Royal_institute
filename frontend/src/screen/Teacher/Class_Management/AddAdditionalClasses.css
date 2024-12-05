@@ -1,0 +1,96 @@
+.addadditional-classes-container {
+  max-width: 900px;
+  margin-left:350px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.addadditional-class-title {
+  margin-top: 60px;
+  text-align: center;
+  font-size: 30px;
+  color: #333;
+}
+
+.form_container {
+  margin-right: 50px;
+  padding-top: 10px;
+  
+  margin-top: 10px;
+}
+
+
+.input-container {
+  margin-bottom: 15px;
+}
+
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cancel-button,
+.save-button,
+.requestschedule-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+}
+
+.cancel-button {
+  background-color: #d9534f;
+}
+
+.save-button {
+  background-color: #5cb85c;
+}
+
+.requestschedule-button {
+  margin-left: 200px;
+  width: 40%;
+  display: block;
+  margin-top: 20px;
+  background-color: #337ab7;
+}
+
+.cancel-button:hover,
+.save-button:hover,
+.requestschedule-button:hover {
+  opacity: 0.9;
+}
+
+.cancel-button:focus,
+.save-button:focus,
+.requestschedule-button:focus {
+  outline: none;
+}
+
+.requestschedule-button {
+  width: 30%;
+  display: block;
+  background-color: #337ab7;
+  text-align: center;
+  padding: 10px 20px;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+  margin-left: 300px;
+  margin-top: 20px;
+}
+
+.requestschedule-button:hover {
+  opacity: 0.9;
+}
+
+.requestschedule-button:focus {
+  outline: none;
+}

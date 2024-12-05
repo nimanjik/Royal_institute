@@ -1,0 +1,57 @@
+.heading7{
+    position: absolute;
+    width: 825px;
+    height: 25px;
+    left: 336px;
+    top: 136px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28.8546px;
+    line-height: 25px;
+    letter-spacing: 0.01em;
+    color: #063a67;
+    }
+    
+    .pv{
+    position: absolute;
+    width: 478px;
+    height: 55px;
+    left: 500px;
+    top: 250px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 150%;
+    color: #000000;
+    text-align: center;
+    }
+    
+    .tft1{
+    position: absolute;
+    width: 396px;
+    height: 51px;
+    left: 560px;
+    top: 300px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 150%;
+    color: #000000;
+    }
+    
+    .sft1{
+    position: absolute;
+    width: 330px;
+    height: 48px;
+    left: 560px;
+    top: 612px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 150%;
+    color: #000000;
+    }

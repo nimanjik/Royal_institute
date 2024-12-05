@@ -1,0 +1,174 @@
+
+
+.Noticecontainer {
+  max-width: 800px;
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form_topic {
+  color: #706a6a;
+  margin-left: 40px;
+}
+
+.file-input-label {
+  display: block;
+  margin-top: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.file-input-label input[type="file"] {
+  display: none;
+}
+
+.Noticecontainer label,
+.Noticecontainer input,
+.Noticecontainer select,
+.Noticecontainer textarea {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.Noticecontainer input[type="text"],
+.Noticecontainer select,
+.Noticecontainer textarea,
+.Noticecontainer input[type="date"] {
+  width: calc(50% - 22px);
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #ecf5fc;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+  /* Added margin */
+}
+
+.Noticecontainer input[type="text"][name="description"] {
+  width: calc(100% - 22px);
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #ecf5fc;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+  height: 60px;
+  resize: vertical;
+}
+
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+
+.Noticecontainer button {
+  padding: 10px 80px;
+  background-color: #483EA8;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 20px;
+}
+
+
+.addNoticebutton:hover {
+  background-color: #0056b3;
+}
+
+.cancelbuttonN {
+  background-color: #667A8A;
+  transition: background-color 0.3s;
+  padding: 10px 80px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 20px;
+  text-decoration: none;
+  
+}
+.cancelbutton_EN{
+  background-color: #667A8A;
+  transition: background-color 0.3s;
+  padding: 10px 80px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 20px;
+  text-decoration: none;
+  
+}
+.cancelbutton_CN{
+  background-color: #667A8A;
+  transition: background-color 0.3s;
+  padding: 10px 80px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 20px;
+  text-decoration: none;
+
+}
+
+.cancelbutton:hover {
+  background-color: #c82333;
+}
+
+.addNoticebutton {
+  background-color: #483EA8;
+  padding: 10px 80px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 20px;
+  text-decoration: none;
+  margin-bottom: 10px;
+  margin-right: 30px;
+}
+
+.input_container {
+  padding: 40px;
+}
+
+.input_group {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input_col {
+  flex: 1;
+}
+
+.input_col input[type="date"],
+.input_col select {
+  width: calc(40% - 22px);
+}
+
+.Noticecontainer hr {
+  border-color: #E2E2E2;
+  margin-left: 40px;
+  margin-right: 40px;
+}

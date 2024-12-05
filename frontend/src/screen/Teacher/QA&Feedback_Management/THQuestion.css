@@ -1,0 +1,90 @@
+.heading5{
+    /* Connect with your teachers */
+    position: absolute;
+    width: 968px;
+    height: 25px;
+    left: 336px;
+    top: 136px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28.8546px;
+    line-height: 25px;
+    letter-spacing: 0.01em;
+    color: #063a67;
+    }
+    
+    .parag2{
+    position: absolute;
+    width: 1006px;
+    height: 111px;
+    left: 336px;
+    top: 186px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #151929;
+    }
+    
+    .buttn3{
+    position: absolute;
+    width: 396px;
+    height: 51px;
+    left: 506px;
+    top: 344px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 150%;
+    color: #ffffff;
+    }
+    
+    .tttt1{
+    position: absolute;
+    width: 968px;
+    height: 25px;
+    left: 347px;
+    top: 410px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28.8546px;
+    line-height: 25px;
+    letter-spacing: 0.01em;
+    text-decoration-line: underline;
+    color: #5D7285;
+    }
+    
+    .bt1{
+    position: absolute;
+    width: 138px;
+    height: 41px;
+    left: 1284px;
+    top: 799px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    }
+    
+    .bt2{
+    position: absolute;
+    width: 138px;
+    height: 41px;
+    left: 1273px;
+    top: 875px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    }
+    

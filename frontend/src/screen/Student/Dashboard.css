@@ -1,0 +1,93 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.d_container {  
+    margin: auto ;
+    overflow-x: hidden;
+}
+.d_container h2 {
+    color: #060606;
+  }
+
+.main-content {
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.Inotices{
+    background-color: #FFFFFF;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+    color: #5D7285;
+}
+
+.Inotice {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}
+
+.Inotice:last-child {
+    border-bottom: none;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.Inotice-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.Inotice-description {
+    color: #777;
+    font-size: 14px;
+    padding-bottom:10px;
+}
+
+
+
+.sidebar {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    padding: 20px;
+    text-align: left;
+    width: 150px;
+    position: fixed;
+    top: 80px;
+    bottom: 0;
+    left: 0;
+    z-index: 999;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-right: 20px;
+}
+
+.box {
+    position: relative;
+    background: linear-gradient(to right, #243949 0%, #517fa4 100%);
+    border-radius: 10px;
+    padding: 20px;
+    color: #fff;
+    overflow: hidden; 
+}
+
+.content {
+    float: left;
+}
+
+.image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%; 
+    object-fit: cover; 
+}
+.inotice_topic {
+    color: black;
+}

@@ -1,0 +1,150 @@
+
+.bodymv {
+  font-family: inter,Arial, Helvetica, sans-serif;
+  margin-left: 315px;
+  font-family: sans-serif;
+  font-weight: 100%;
+  margin-bottom: 100px;
+  transform: scale(0.9);
+ 
+}
+
+.h1mv{
+  text-decoration:none;
+  color:black;
+  width: 1100px;
+  height: 122px;
+background: #C9E8EA;
+border-radius: 20px;
+text-align: center;
+border: 2px solid black;
+    
+}
+
+.tbl-headermv {
+  background-color: #384D6C;
+  margin-top: 20px;
+  border: 2px solid black;
+  border-radius: 15px 15px 0 0;
+  width: 1100px;
+}
+
+.tablemv {
+  width:100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+
+}
+
+.tbl-contentmv{
+  height:333px;
+  overflow-x:auto;
+  border: 2px solid black;
+  border-radius: 0 0 15px 15px; /* Top-left and top-right corners are rounded */
+  width: 1100px;
+}
+
+.thmv {
+  padding: 18px 20px;
+  text-align: left;
+  font-size: 18px;
+  color: white;
+  font-weight: bold; 
+}
+
+.thmv2{
+  padding: 18px 50px;
+  text-align: left;
+  font-size: 18px;
+  color: white; 
+  font-weight: bold;
+}
+.thmv3{
+  padding: 18px 10px;
+  text-align: left;
+  font-size: 18px;
+  color: white; 
+  font-weight: bold;
+}
+.tdmv {
+  padding: 18px 20px;
+  text-align: left;
+  font-size: 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C; /* Add border-bottom to table data */
+  font-weight: bold;
+}
+.tdmv2{
+  padding: 18px 50px;
+  text-align: left;
+  font-size : 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}.tdmv3{
+  padding: 18px 10px;
+  text-align: left;
+  font-size : 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}
+.tdmv6{
+  padding: 18px 10px;
+  text-align: left;
+  font-size : 18px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}
+
+.buttonmv4{
+  color: black; 
+  cursor: pointer;
+  background-color:#136845;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 35px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid black;
+}
+
+.buttonmv5 {
+  color: black; 
+  cursor: pointer;
+  background-color:#4a2032;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 25px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid black;
+}
+
+.buttonmv4:hover {
+  background: linear-gradient(to right, #da4a0c, #e60b45);
+    transform: scale(1.06);
+}
+.buttonmv5:hover {
+  
+  background: linear-gradient(to right, #da4a0c, #e60b45);
+    transform: scale(1.06);
+}
+
+
+
+
+
+
+
+
+
+
+

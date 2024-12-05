@@ -1,0 +1,60 @@
+.viewclass {
+    margin: 40px auto; /* Increase margin to add space around the box */
+    padding: 20px; /* Keep padding as it is */
+    width: 80%; /* Set a specific width for the box */
+    max-width: 800px; /* Keep a maximum width for larger screens */
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .viewclass h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .viewclass h3 {
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .buttonviec {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .buttonviec:hover {
+    background-color: #0056b3;
+  }
+  
+  .buttonviec:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.3);
+  }
+  
+  @media screen and (max-width: 480px) {
+    .viewclass {
+      margin: 20px auto; /* Adjust margin for smaller screens */
+    }
+    
+    .viewclass h2 {
+      font-size: 20px;
+    }
+    
+    .viewclass h3 {
+      font-size: 16px;
+    }
+    
+    .buttonviec {
+      font-size: 14px;
+    }
+  }
+  

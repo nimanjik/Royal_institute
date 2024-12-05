@@ -1,0 +1,277 @@
+
+
+
+
+.bodyvo {
+  font-family: inter,Arial, Helvetica, sans-serif;
+  margin-left: 175px;
+  font-family: sans-serif;
+  font-weight: 100%;
+  margin-bottom: 100px;
+  transform: scale(0.9);
+ 
+}
+
+.h1vo{
+  text-decoration:none;
+  color:black;
+  width: 1350px;
+  height: 122px;
+background: #C9E8EA;
+border-radius: 20px;
+text-align: center;
+border: 2px solid black;
+    
+}
+
+
+  
+
+.tablevo {
+  width: 100%; 
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+.tbl-headervo {
+  background-color: #384D6C;
+  margin-top: 20px;
+  border: 2px solid black;
+  border-radius: 15px 15px 0 0; 
+  width: 1350px;
+}
+
+.tbl-contentvo{
+  width: 1350px;
+  height:333px;
+  overflow-x:auto;
+  border: 2px solid black;
+  border-radius: 0 0 15px 15px;
+}
+.thvo {
+  padding: 18px 20px;
+  text-align: left;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+.thvo1{
+  padding: 18px 30px;
+  text-align: left;
+  font-size: 18px;
+  color: white;
+  font-weight: bold; 
+}
+
+.thvo2{
+  padding: 18px 60px;
+  text-align: left;
+  font-size: 18px;
+  color: white; 
+  font-weight: bold;
+}
+.thvo3{
+  padding: 18px 30px;
+  text-align: left;
+  font-size: 18px;
+  color: white; 
+  font-weight: bold;
+}
+
+.tdvo {
+  padding: 18px 20px;
+  text-align: left;
+  font-size: 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C; 
+  font-weight: bold;
+}
+.tdvo5 {
+  padding: 18px 35px;
+  text-align: left;
+  font-size: 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C; 
+  font-weight: bold;
+}
+.tdvo4 {
+  padding: 18px 20px;
+  text-align: left;
+  font-size: 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C; 
+  font-weight: bold;
+}
+.tdvo1{
+  padding: 18px 30px;
+  text-align: left;
+  font-size: 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C; 
+  font-weight: bold;
+}
+.tdvo2{
+  padding: 18px 60px;
+  text-align: left;
+  font-size : 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}.tdvo3{
+  padding: 18px 30px;
+  text-align: left;
+  font-size : 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}
+.tdvo6{
+  padding: 18px 10px;
+  text-align: left;
+  font-size : 18px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}
+
+.buttonvo1{
+  color: black; 
+  margin-left: 00px; 
+  cursor: pointer;
+  background-color:white;
+  text-align: center;
+  border-radius: 12px;
+  padding: 11px 30px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: black;
+  border: 2px solid black;
+}
+
+.buttonvo2 {
+  color: black; 
+  margin-left: 0px; 
+  cursor: pointer;
+  background-color:#384D6C;
+  text-align: center;
+  border-radius: 12px;
+  padding: 11px 35px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 5px;
+  color: white;
+  border: 2px solid black;
+}
+.buttonvo3 {
+  color: black; 
+  margin-left: 0px; 
+  cursor: pointer;
+  background-color:#384D6C;
+  text-align: center;
+  border-radius: 12px;
+  padding: 11px 35px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 5px;
+  color: white;
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+
+.buttonvo2:hover {
+  background: linear-gradient(to right, #25c481, #25b7c4);
+    transform: scale(1.06);
+}
+.buttonvo3:hover {
+  
+  background: linear-gradient(to right, #25c481, #25b7c4);
+    transform: scale(1.06);
+}
+
+  
+ 
+.buttonvo4{
+  color: black; 
+  cursor: pointer;
+  background-color:#136845;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 15px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid black;
+}
+
+.buttonvo5 {
+  color: black; 
+  cursor: pointer;
+  background-color:#132c51;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 25px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid black;
+}
+.buttonvo6 {
+  color: black; 
+  cursor: pointer;
+  background-color:#4a2032;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 15px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid black;
+}
+
+.buttonvo4:hover {
+  background: linear-gradient(to right, #da4a0c, #e60b45);
+    transform: scale(1.06);
+}
+.buttonvo5:hover {
+  
+  background: linear-gradient(to right, #da4a0c, #e60b45);
+    transform: scale(1.06);
+}
+.buttonvo6:hover {
+  
+  background: linear-gradient(to right, #da4a0c, #e60b45);
+    transform: scale(1.06);
+}
+
+
+.buttonvo7 {
+  color: black; 
+  cursor: pointer;
+  background-color:white;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 15px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  border: 2px solid black;
+}
+
+
+
+  

@@ -1,0 +1,410 @@
+     
+
+    .bodymge {
+      font-family: inter,Arial, Helvetica, sans-serif;
+  margin-left: 30px;
+  font-family: sans-serif;
+  font-weight: 100%;
+
+  transform: scale(0.9);
+    }
+    /*userLogin */
+    
+   
+    .textmge1{
+      
+      padding: 14px 20px; 
+      width: 930px; 
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #000000;
+      border-radius: 7px;
+      box-sizing: border-box;
+      margin-left: 60px;
+      margin-top: 15px;
+      text-align: left;
+    }
+    .textmge1{
+      
+      padding: 14px 20px; 
+      width: 930px; 
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #000000;
+      border-radius: 7px;
+      box-sizing: border-box;
+      margin-left: 60px;
+      margin-top: 15px;
+      text-align: left;
+    }
+    .textmge2{
+      
+      padding: 14px 20px; 
+      width: 930px; 
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #000000;
+      border-radius: 7px;
+      box-sizing: border-box;
+      margin-left: 60px;
+      margin-top: 15px;
+      text-align: left;
+    }
+    .textmge3{
+      
+      padding: 14px 20px; 
+      width: 930px; 
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #000000;
+      border-radius: 7px;
+      box-sizing: border-box;
+      margin-left: 60px;
+      margin-top: 15px;
+      text-align: left;
+    }
+    .textmge4{
+      
+      padding: 14px 20px; 
+      width: 930px; 
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #000000;
+      border-radius: 7px;
+      box-sizing: border-box;
+      margin-left: 60px;
+      margin-top: 15px;
+      text-align: left;
+    }.textmge5{
+      
+      padding: 14px 20px; 
+    width: 930px; 
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #000000;
+    border-radius: 7px;
+    box-sizing: border-box;
+    margin-left: 60px;
+    margin-top: 15px;
+    text-align: left;
+    }
+    .textmge6{
+      
+      padding: 14px 20px; 
+      width: 930px; 
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #000000;
+      border-radius: 7px;
+      box-sizing: border-box;
+      margin-left: 60px;
+      margin-top: 15px;
+      text-align: left;
+    }
+    .textmge7{
+      
+      padding: 14px 20px; 
+      width: 930px; 
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #000000;
+      border-radius: 7px;
+      box-sizing: border-box;
+      margin-left: 60px;
+      margin-top: 15px;
+      text-align: left;
+    }
+    .textmge8{
+      
+      padding: 14px 20px; 
+      width: 930px; 
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #000000;
+      border-radius: 7px;
+      box-sizing: border-box;
+      margin-left: 60px;
+      margin-top: 15px;
+      text-align: left;
+    }
+    
+    input.textmge1:focus {
+      border-color: #000000; /* Change border color when focused */
+      box-shadow: 0px 5px 10px rgb(14, 218, 237); /* Add a box shadow when focused */
+    }
+    input.textmge2:focus {
+      border-color: #000000; /* Change border color when focused */
+      box-shadow: 0px 5px 10px rgb(14, 218, 237); /* Add a box shadow when focused */
+    }
+    input.textmge3:focus {
+      border-color: #000000; /* Change border color when focused */
+      box-shadow: 0px 5px 10px rgb(14, 218, 237); /* Add a box shadow when focused */
+    }
+    input.textmge4:focus {
+      border-color: #000000; /* Change border color when focused */
+      box-shadow: 0px 5px 10px rgb(14, 218, 237); /* Add a box shadow when focused */
+    }
+    input.textmge5:focus {
+      border-color: #000000; /* Change border color when focused */
+      box-shadow: 0px 5px 10px rgb(14, 218, 237); /* Add a box shadow when focused */
+    }
+    input.textmge6:focus {
+      border-color: #000000; /* Change border color when focused */
+      box-shadow: 0px 5px 10px rgb(14, 218, 237); /* Add a box shadow when focused */
+    }
+    input.textmge7:focus {
+      border-color: #000000; /* Change border color when focused */
+      box-shadow: 0px 5px 10px rgb(14, 218, 237); /* Add a box shadow when focused */
+    }
+    input.textmge8:focus {
+      border-color: #000000; /* Change border color when focused */
+      box-shadow: 0px 5px 10px rgb(14, 218, 237); /* Add a box shadow when focused */
+    }
+                  
+    
+    /* Set a style for all buttons */
+    
+    .buttonmge5 {
+       color: white;
+       margin: 8px 0;
+       cursor: pointer;
+       background-color:#5160b4;
+       display:block;
+       margin-left:170px;
+       margin-top:60px;
+       text-align:center;
+       border-radius:12px;
+       padding:11px 50px;
+       outline:none;
+       color:white;
+       transition:0.25s;
+       font-size:14px;
+       font-weight: bold;
+    }
+    .h1mge{
+      text-decoration:none;
+      color:black;
+      margin-left: 300px;
+      margin-top : 30px;
+      width: 1053px;
+      height: 122px;
+    background: #C9E8EA;
+    border-radius: 20px;
+    text-align: center;
+    border: 2px solid black;
+    }
+    
+    .amge1{
+        text-decoration:none;
+        color:rgb(56, 56, 128);
+    }
+    
+    .buttonmge5:hover {
+      background-color :rgb(56, 56, 128);
+      -webkit-transform: scale(1.06);
+      -ms-transform: scale(1.06);
+      -o-transform: scale(1.06);
+      transform: scale(1.06);
+    
+    }
+    
+    .text{
+        font-size :20px;
+        margin-right :170px;
+    }
+    .containermge{
+      display: flex;
+      padding-top: 5px;
+      margin-left:200px;
+      margin-top:0px;
+      
+    }
+    
+    .containermge3 {
+        
+       color: white; /* Set the text color */
+        font-size: 75px; /* Adjust the font size as needed */
+       
+    }
+    .labelmge1 {
+      margin-left: 60px;
+      color: black;
+      font-weight: bold; /* Use font-weight property to set text to bold */
+    }
+    
+    
+    .labelmge2{
+        
+      margin-top: 50px;
+      margin-left:60px;
+      color:black;
+      font-weight: bold;
+    }
+    .labelmge3{
+        
+        margin-left:70px;
+        color:black;
+        font-weight: bold;
+    }
+    .labelmge4{
+        
+        margin-left:85px;
+        color:black;
+    }.labelmge5{
+        
+        margin-left:110px;
+        color:black;
+    }.labelmge6{
+        
+        margin-left:100px;
+        color:black;
+    }.labelmge7{
+        
+        margin-left:100px;
+        color:black;
+    }
+    .labelmge8 {
+        color: blue; /* Set color to blue */
+        font-weight: bold; /* Make the text bold */
+        margin-left:400px;
+        margin-top:80px;
+        font-size:20px;
+      }
+      
+      /* Style the file input */
+    
+    .containermge4 {
+        
+      color: white; /* Set the text color */
+    font-size: 75px; /* Adjust the font size as needed */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    }
+    
+    
+    .paymge{
+      width: 1053px;
+      height: 750px;
+      background-color: #C9E8EA;
+       margin-left:100px ;
+       color:#FFFFFF;
+       padding:10x 10px 10px 0px;
+       border-radius: 20px;
+       margin-top:40px;
+       border: 2px solid black;
+       font-size: 20px;
+    
+    
+      }
+    .signmge{
+         width: 300px;
+        height: 50px;
+        background-color:rgb(0,0,0,.6);
+       margin:auto;
+       color:#FFFFFF;
+       padding:10x 10px 10px 10px;
+       border-radius:12px 12px 12px 12px;
+       
+     }
+    
+    
+    .buttonmge1{
+        color: black;
+        margin-left: 595px; /* Adjust the margin to control the space between buttons */
+        cursor: pointer;
+        background-color: White;
+        text-align: center;
+        border-radius: 12px;
+        padding: 11px 50px;
+        outline: none;
+        color: black;
+        transition: 0.25s;
+        font-size: 20px;
+        font-weight: bold;
+        margin-top :50px;
+    }
+    
+    .buttonmge2 {
+        color: black; /* Change text color to black */
+        margin-left: 105px; /* Adjust the margin to control the space between buttons */
+        cursor: pointer;
+        background-color:#384D6C;
+        text-align: center;
+        border-radius: 12px;
+        padding: 11px 50px;
+        outline: none;
+        transition: 0.25s;
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 50px;
+          color: White;
+    }
+    .buttonmge3 {
+      color: white; /* Change text color to black */
+      /* Adjust the margin to control the space between buttons */
+          cursor: pointer;
+          background-color:#384D6C;
+          text-align: center;
+          border-radius: 12px;
+          padding: 20px 480px;
+          outline: none;
+          transition: 0.25s;
+          font-size: 21px;
+          font-weight: bold;
+          margin-bottom: 100px;
+          border: 3px solid black;
+    }
+    
+    .buttonmge2:hover {
+        background: linear-gradient(to right, #25c481, #25b7c4);
+        transform: scale(1.06);
+    }
+    .buttonmge3:hover {
+        background:  #FF0000;
+        transform: scale(1.06);
+    }
+    
+    .buttonemge3 {
+      color: white; /* Change text color to black */
+    /* Adjust the margin to control the space between buttons */
+      cursor: pointer;
+      background-color:#384D6C;
+      text-align: center;
+      border-radius: 12px;
+      padding: 20px 500px;
+      outline: none;
+      transition: 0.25s;
+      font-size: 21px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      border: 3px solid black;
+    }
+    
+    .buttonemge2:hover {
+      background: linear-gradient(to right, #25c481, #25b7c4);
+      transform: scale(1.06);
+    }
+    .buttonemge3:hover {
+      background:  #FF0000;
+      transform: scale(1.06);
+    }
+    
+    .buttonemge4 {
+      color: white; /* Change text color to black */
+    /* Adjust the margin to control the space between buttons */
+      cursor: pointer;
+      background-color:#384D6C;
+      text-align: center;
+      border-radius: 12px;
+      padding: 20px 490px;
+      outline: none;
+      transition: 0.25s;
+      font-size: 21px;
+      font-weight: bold;
+      margin-bottom: 100px;
+      border: 3px solid black;
+    }
+    .buttonemge4:hover {
+      background:  #FF0000;
+      transform: scale(1.06);
+    }

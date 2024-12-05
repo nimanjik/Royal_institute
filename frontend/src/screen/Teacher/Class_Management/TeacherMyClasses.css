@@ -1,0 +1,107 @@
+/* TeacherMyClasses.css */
+
+/* Container */
+.my-classes-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Center content */
+}
+
+/* Title */
+.my-classes-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Search Input */
+.search-grade-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+/* Table */
+.classes-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.classes-table th,
+.classes-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+/* Buttons */
+.edit-classes-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #045715a2; /* Yellow */
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.edit-classes-button:hover {
+  background-color: #045715a2; /* Darker yellow on hover */
+}
+
+.delete-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #dc3545; /* Red */
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.delete-button:hover {
+  background-color: #c82333; /* Darker red on hover */
+}
+
+.add-classes-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #007bff; /* Blue */
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.add-classes-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+.viewadditional-classes-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #007bff; /* Blue */
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.viewadditional-classes-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}

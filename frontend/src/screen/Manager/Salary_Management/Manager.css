@@ -1,0 +1,160 @@
+.bodykn1{
+  font-family: inter,Arial, Helvetica, sans-serif;
+  margin-left: 150px;
+  font-family: sans-serif;
+  font-weight: 100%;
+  margin-bottom: 100px;
+  transform: scale(0.9);
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+    
+  
+}
+.h1kn{
+  text-decoration:none;
+  color:rgb(253, 249, 249);
+  width: 1350px;
+  height: 122px;
+background: #384D6C;
+border-radius: 20px;
+text-align: center;
+border: 2px solid black;
+      
+  }
+  .tbl-headerkn {
+    background-color: #384D6C;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 15px 15px 0 0; 
+    width: 1350px;    
+  }
+
+  .tbl-contentkn{
+    height:333px;
+    overflow-x:auto;
+    border: 2px solid black;
+    border-radius: 0 0 15px 15px;
+    width: 1350px;
+  }
+
+  .tablekn{
+    width:100%;
+    table-layout: fixed;
+    border-collapse: collapse; /* Ensure table borders are collapsed */
+  
+  }
+
+  .search_input {
+    padding: 12px 20px;
+    width: 320px;
+    border: 2px solid #ddd;
+    border-radius: 20px;
+    font-size: 18px;
+    background-color: #f8f8f8;
+    color: #333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.search_input:focus {
+    border-color: #4CAF50;
+}
+
+.thkn{
+  padding: 18px 20px;
+  text-align: left;
+  font-size: 18px;
+  color: white;
+  font-weight: bold; /* Set font weight to bold */
+}
+*/
+.thkn2{
+  padding: 18px 50px;
+  text-align: left;
+  font-size: 18px;
+  color: white; /* Set font color to black */
+  font-weight: bold;
+}
+.thkn3{
+  padding: 18px 40px;
+  text-align: left;
+  font-size: 18px;
+  color: white; /* Set font color to black */
+  font-weight: bold;
+}
+
+.tdkn {
+  padding: 18px 20px;
+  text-align: left;
+  font-size: 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C; /* Add border-bottom to table data */
+  font-weight: bold;
+}
+
+.tdkn2{
+  padding: 18px 50px;
+  text-align: left;
+  font-size : 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}.tdkn3{
+  padding: 18px 40px;
+  text-align: left;
+  font-size : 15px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}
+.tdkn4{
+  padding: 18px 10px;
+  text-align: left;
+  font-size : 18px;
+  color: black;
+  border-bottom: solid 2px #384D6C ;
+  font-weight: bold;
+}
+.buttonkn4{
+  color: black; 
+  cursor: pointer;
+  background-color:#136845;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 25px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid black;
+}
+
+.buttonkn5 {
+  color: black; 
+  cursor: pointer;
+  background-color:#4a2032;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px 25px;
+  outline: none;
+  transition: 0.25s;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid black;
+}
+
+.buttonkn4:hover {
+  background: linear-gradient(to right, #da4a0c, #e60b45);
+    transform: scale(1.06);
+}
+.buttonkn5:hover {
+  
+  background: linear-gradient(to right, #da4a0c, #e60b45);
+    transform: scale(1.06);
+}

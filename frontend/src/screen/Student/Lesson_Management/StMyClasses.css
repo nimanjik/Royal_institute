@@ -1,0 +1,155 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.t_container {
+    
+    width: 100%;
+    max-width: 1200px;
+    margin-left: 50px;
+    margin-right: 20px;
+    overflow-x: hidden;
+}
+.t_container h2 {
+    color: #5D7285;
+  }
+
+
+.main-content {
+    padding: 20px;
+    margin-top: -25px;
+    margin-left: 220px;
+    overflow-y: auto;
+}
+.class_details h2{
+    color: #5D7285;
+}
+.class_details{
+    background-color: #C9E8EA;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
+    color: #5D7285;
+}
+.class_details,
+.notices {
+    margin-bottom: 20px;
+}
+
+.notices{
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    color: #5D7285;
+}
+
+.lesson-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    color: #333;
+}
+.lesson-container h2{
+    color: #5D7285;
+}
+
+.class-info,
+.notice,
+.lesson {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}
+
+.lesson:last-child,
+.notice:last-child,
+.class-info:last-child {
+    border-bottom: none;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.class-title,
+.notice-title,
+.lesson-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.class-detail{
+    display: flex;
+}
+
+.class-detail,
+.lesson-date,
+.notice-description {
+    color: #777;
+    font-size: 14px;
+}
+.notice-description {
+    padding-bottom:10px;
+}
+
+.material_download,
+.material_view {
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: #3EA87B; 
+    color: #fff; 
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+    margin-top:10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #f0f9fc;
+}
+
+.material_view:hover,
+.material_download:hover {
+    background-color: #219653;
+}
+
+.search_bar_container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px; 
+    margin-top: 20px;
+}
+
+.search_input {
+    padding: 12px 20px;
+    width: 320px;
+    border: 2px solid #ddd;
+    border-radius: 20px;
+    font-size: 18px;
+    background-color: #f8f8f8;
+    color: #333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.search_input:focus {
+    border-color: #4CAF50;
+}
+
+.month {
+    margin-bottom: 20px;
+    color: #777;
+    font-size: 16px;
+}
+
+
+
+
+

@@ -1,0 +1,91 @@
+.heading31{
+  /* Connect with your teachers - My Question */
+  position: absolute;
+  width: 968px;
+  height: 25px;
+  left: 336px;
+  top: 155px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28.8546px;
+  line-height: 25px;
+  letter-spacing: 0.01em;
+  color: #063a67;
+  }
+  
+  .buttn1{
+  /* Edit */
+  position: absolute;
+  width: 66px;
+  height: 22px;
+  left: 1295px;
+  top: 260px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 25px;
+  letter-spacing: 0.01em;
+  color: #FFFFFF;
+  }
+  
+  .buttn2{
+  /* Delete */
+  position: absolute;
+  width: 100px;
+  height: 19px;
+  left: 1284px;
+  top: 354px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 25px;
+  letter-spacing: 0.01em;
+  color: #FFFFFF;
+  }
+  
+  .buttonbb2{
+      color: black;
+      margin-left: 40px; /* Adjust the margin to control the space between buttons */
+      cursor: pointer;
+      background-color: #136845;
+      text-align: center;
+      border-radius: 12px;
+      padding: 11px 55px;
+      outline: none;
+      color: white;
+      transition: 0.25s;
+      font-size: 15px;
+      font-weight: bold;
+    margin-top:opx;
+  
+    }
+    
+    .buttonbb2:hover {
+      background: linear-gradient(to right, #25c481, #25b7c4);
+      transform: scale(1.06);
+  }
+
+  .buttonbb3{
+      color: black;
+      margin-left: 10px; /* Adjust the margin to control the space between buttons */
+      cursor: pointer;
+      background-color: #4a2032;
+      text-align: center;
+      border-radius: 12px;
+      padding: 11px 55px;
+      outline: none;
+      color: white;
+      transition: 0.25s;
+      font-size: 15px;
+      font-weight: bold;
+    margin-top:opx;
+  
+    }
+    
+    .buttonbb3:hover {
+      background: linear-gradient(to right, #25c481, #25b7c4);
+      transform: scale(1.06);
+  }

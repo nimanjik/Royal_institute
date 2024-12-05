@@ -1,0 +1,64 @@
+ 
+ 
+ .bodywa{
+    font-family: inter,Arial, Helvetica, sans-serif;
+  margin-left: 30px;
+  font-family: sans-serif;
+  font-weight: 100%;
+  transform: scale(0.9);
+  }
+  .h1wa{
+    text-decoration:none;
+    color:black;
+    margin-left: 300px;
+    margin-top : 30px;
+    width: 1053px;
+    height: 122px;
+  background: #C9E8EA;
+  border-radius: 20px;
+  text-align: center;
+  border: 2px solid black;
+      
+    }
+    .containerwa{
+        display: flex;
+        padding-top: 5px;
+        margin-left:200px;
+        margin-top:0px;
+        
+        }
+
+        .paywa{
+            width: 1053px;
+          height: 650px;
+          background-color: #C9E8EA;
+           margin-left:100px ;
+           color:#FFFFFF;
+           padding:10x 10px 10px 0px;
+           border-radius: 20px;
+           margin-top:40px;
+           border: 2px solid black;
+           font-size: 20px;
+        
+          }
+
+          .labelwa1 {
+            margin-left: 60px;
+            color: black;
+            font-weight: bold; /* Use font-weight property to set text to bold */
+            font-size: 25px;
+            
+          }
+
+          input.textwa1 {
+            padding: 14px 20px; 
+            width: 930px; 
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #000000;
+            border-radius: 7px;
+            box-sizing: border-box;
+            margin-left: 60px;
+            margin-top: 15px;
+            text-align: left;
+          }

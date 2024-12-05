@@ -1,0 +1,47 @@
+.heading300{
+    /* Connect with your teachers - My Question */
+    position: absolute;
+    width: 968px;
+    height: 25px;
+    left: 336px;
+    top: 136px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28.8546px;
+    line-height: 25px;
+    letter-spacing: 0.01em;
+    color: #063a67;
+    }
+    
+    .buttn1k{
+    /* Edit */
+    position: absolute;
+    width: 66px;
+    height: 22px;
+    left: 1295px;
+    top: 260px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    }
+    
+    .buttn2{
+    /* Delete */
+    position: absolute;
+    width: 100px;
+    height: 19px;
+    left: 1284px;
+    top: 354px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 25px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    }

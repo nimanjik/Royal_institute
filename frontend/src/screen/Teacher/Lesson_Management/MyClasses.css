@@ -1,0 +1,189 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.t_container {
+
+    width: 100%;
+    max-width: 1200px;
+    margin-left: 50px;
+    overflow-x: hidden;
+}
+.t_container h2 {
+    color: #5D7285;
+  }
+
+
+.main-content {
+    overflow-y: auto;
+}
+.class_details h2{
+    color: #060606;
+}
+.class_details{
+    background-color: #C9E8EA;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
+    color: #5D7285;
+}
+.class_details,
+.notices {
+    margin-bottom: 20px;
+}
+
+.notices{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    color: #5D7285;
+}
+
+.lesson-container {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    color: #333;
+}
+.lesson-container h2{
+    color: #5D7285;
+}
+
+.class-info,
+.notice,
+.lesson {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}
+
+.lesson:last-child,
+.notice:last-child,
+.class-info:last-child {
+    border-bottom: none;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.class-title,
+.notice-title,
+.lesson-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.class-detail,
+.lesson-date,
+.notice-description {
+    color: #777;
+    font-size: 14px;
+}
+.notice-description {
+    padding-bottom:10px;
+}
+
+
+.material_link,
+.notice_link {
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: #3EA87B; 
+    color: #fff; 
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+    margin-top:10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #f0f9fc;
+}
+
+.material_link:hover,
+.notice_link:hover {
+    background-color: #219653;
+}
+.report_button,
+.edit_button,
+.delete_button,
+.add_button {
+    display: inline-block;
+    padding: 8px 15px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: transparent;
+    border: 2px solid #f0f9fc;
+}
+
+.add_button {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.report_button:hover {
+    background-color: #4a1682;
+}
+.add_button:hover {
+    background-color: #96A0A9;
+}
+
+.edit_button:hover{
+    background-color: #579FE2;
+}
+
+.delete_button:hover{
+    background-color: #c82333;
+}
+
+.delete_button {
+    background-color: #8A6675;
+}
+.edit_button{
+    background-color: #483EA8;
+}
+.add_button{
+    background-color: #667A8A;
+}
+.report_button{
+    margin-top: 10px;
+    background-color: #44044f;
+
+}
+
+.search_bar_container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px; 
+    margin-top: 20px;
+}
+
+.search_input {
+    padding: 12px 20px;
+    width: 320px;
+    border: 2px solid #ddd;
+    border-radius: 20px;
+    font-size: 18px;
+    background-color: #f8f8f8;
+    color: #333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.search_input:focus {
+    border-color: #4CAF50;
+}
+
+.month {
+    margin-bottom: 20px;
+    color: #777;
+    font-size: 16px;
+}

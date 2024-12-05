@@ -1,0 +1,134 @@
+.heading1{
+    /* Connect with your teachers */
+
+position: absolute;
+width: 416px;
+height: 25px;
+left: 336px;
+top: 150px;
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 600;
+font-size: 28.8546px;
+line-height: 25px;
+/* identical to box height, or 85% */
+letter-spacing: 0.01em;
+
+color: #063a67;
+
+}
+
+.mainpara{
+    position: absolute;
+width: 1006px;
+height: 111px;
+left: 339px;
+top: 190px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #151929;
+}
+
+.btn1{
+    position: absolute;
+    width: 500px;
+    height: 86px;
+    left: 353px;
+    top: 350px;
+    
+    background: #83B2CD;
+    border-radius: 10px;    
+}
+
+.text-btn1{
+    position: absolute;
+width: 325px;
+height: 51px;
+left: 483px;
+top: 400px;
+
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 150%;
+/* or 48px */
+
+color: #000000;
+}
+
+.btn2{
+   /* Rectangle 44 */
+
+position: absolute;
+width: 500px;
+height: 97px;
+left: 354px;
+top: 500px;
+
+background: #83B2CD;
+border-radius: 10px;
+
+
+}
+
+.text-btn2{
+    /* MY QUESTIONS */
+
+position: absolute;
+width: 325px;
+height: 51px;
+left: 483px;
+top: 500px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 150%;
+/* identical to box height, or 48px */
+
+color: #000000;
+
+}
+
+.btn3{
+    /* Rectangle 44 */
+
+position: absolute;
+width: 500px;
+height: 97px;
+left: 353px;
+top: 600px;
+background: #83B2CD;
+border-radius: 10px;
+
+
+}
+
+.text-btn3{
+    /* FAQS */
+
+position: absolute;
+width: 325px;
+height: 51px;
+left: 483px;
+top: 600px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 150%;
+/* identical to box height, or 48px */
+
+color: #000000;
+}
